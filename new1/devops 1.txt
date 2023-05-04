@@ -1,0 +1,53 @@
+Sathish ----> 9840076968
+
+AWS with DevOps:
+
+IT ---> Developer + Tester + DevOps
+
+Developer---> develop the application based on client requirements
+Tester ---> test the application based on client requriements
+
+
+source code(java/react js)---> DevOps Team ---> server host ---> customer
+
+DevOps: Development + Operation(process)
+
+--------------------
+
+Prequiste:
+
+* no coding needed
+* no degree constraints
+* Non IT 
+Module 1:
+
+AWS: Amazon Web Services
+
+Cloud Computing:
+
+Providers:
+
+* AWS
+* Azure
+* GCP(Google Cloud Platform)
+Modules to be covered:
+
+1) Module 1 ---> AWS(Amazon Web Services)----> 25 Services---> 30 hours
+2) Module 2 ---> Python(not an mandatory) ---> 6 hours
+3) Module 3 ---> Linux commands ---> 10 hours
+4) DevOps ---> 10 tools ---> 30 hours
+5) Project Session --> 3 days(aws + devops)
+6) Resume Preparation ---> Mock Interviews + Resume preparation
+7) Placement
+
+Module 1:
+
+AWS: Amazon Web Services
+
+Cloud Computing:
+
+Providers:
+
+* AWS
+* Azure
+* GCP(Google Cloud Platform)
